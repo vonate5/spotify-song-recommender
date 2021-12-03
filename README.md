@@ -26,11 +26,12 @@ We use the following tools and methods to achieve the model:
 
 ## Results
 Once we import Spotify songs and group them in 28 clusters (based on the [elbow method](https://github.com/vonate5/spotify_project/blob/main/images/elbow_method.png)) we manage to create a model that asks you for a song you like and, deppending on the features of the songs, it returns you a similar one and let you listen to it! 
-In the next image you can see how it works, but I invite you to click on the [code]() and try it yourself.
+In the next image you can see how it works, but I invite you to click on the [code](https://github.com/vonate5/spotify_project/tree/main/code) and try it yourself.
 
 ![](images/model_example.png)
 
 **Have fun!**
 
 **Thanks for reading,**
+
 🎶 🎸🥁 🎶
