@@ -5,8 +5,7 @@ by [Virgilio Oñate](https://github.com/vonate5), December 2021
 ![](images/spotify_logo2.png)
 ## Table of content
 - [Project](https://github.com/vonate5/spotify_project/blob/main/README.md#project)
-- [Data]
-- [Process & tools]
+- [Process & tools]https://github.com/vonate5/spotify_project/blob/main/README.md#process--tools
 - [Results](https://github.com/vonate5/midterm_regression_project#results)
 
 ## Project
@@ -25,4 +24,10 @@ We use the following tools and methods to achieve the model:
 - Scaling
 - Find the optimal K
 
+## Results
+Once we import Spotify songs and group them in 28 clusters (based on the [elbow method]()) we manage to create a model that asks you for a song you like and, deppending on the features of the songs, it returns you a similar one and let you listen to it! 
+In the next image you can see how it works, but I invite you to click on the [code]() and try it yourself.
 
+Have fun!
+Thanks for reading,
+🎶 🎸🥁 🎶
