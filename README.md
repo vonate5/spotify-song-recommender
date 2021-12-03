@@ -6,7 +6,7 @@ by [Virgilio Oñate](https://github.com/vonate5), December 2021
 ## Table of content
 - [Project](https://github.com/vonate5/spotify_project/blob/main/README.md#project)
 - [Process & tools](https://github.com/vonate5/spotify_project/blob/main/README.md#process--tools)
-- [Results](https://github.com/vonate5/midterm_regression_project#results)
+- [Results](https://github.com/vonate5/spotify_project#results)
 
 ## Project
 **Scenario:**
@@ -30,8 +30,7 @@ In the next image you can see how it works, but I invite you to click on the [co
 
 ![](images/model_example.png)
 
-Have fun!
+**Have fun!**
 
-Thanks for reading,
-
+**Thanks for reading,**
 🎶 🎸🥁 🎶
