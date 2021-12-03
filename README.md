@@ -4,7 +4,7 @@ by [Virgilio Oñate](https://github.com/vonate5), December 2021
 
 ![](images/spotify_logo2.png)
 ## Table of content
-- [Project]
+- [Project](https://github.com/vonate5/spotify_project/blob/main/README.md#project)
 - [Data]
 - [Process & tools]
 - [Results](https://github.com/vonate5/midterm_regression_project#results)
