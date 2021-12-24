@@ -34,4 +34,4 @@ In the next image you can see how it works, but I invite you to click on the [co
 
 **Thanks for reading,**
 
-🎶 🎸🥁 🎶
+🎶 🎸🥁
